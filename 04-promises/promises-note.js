@@ -1,5 +1,5 @@
 // Las promesas son objetos
-// Constructor: Promise
+// Constructor:  Por eso son objetos Promise
 // Para instaciar : New, para poder crear un objeto de un constructor
 // Los promise reciben callbacks
 
